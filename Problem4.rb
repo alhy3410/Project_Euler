@@ -22,5 +22,5 @@ setarray.each do |num|
   holdingarray
 end
 
-#sort and find which is the largest by looking at the last one
+#sort and find which is the largest number by looking at the last one
 holdingarray.sort
